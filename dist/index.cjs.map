@@ -1,0 +1,1 @@
+{"version":3,"file":"index.cjs","sources":["../src/index.js"],"sourcesContent":["export const Capitalize = ({ str }) => {\r\n    return str.charAt(0).toUpperCase() + str.slice(1)\r\n  }"],"names":["_ref","str","charAt","toUpperCase","slice"],"mappings":"mBAA0B,SAAHA,OAAMC,EAAGD,EAAHC,IACzB,OAAOA,EAAIC,OAAO,GAAGC,cAAgBF,EAAIG,MAAM,EACjD"}
