@@ -1,12 +1,13 @@
 {
   "name": "up-first-letter",
-  "version": "1.0.1",                     
+  "version": "1.0.2",                     
   "type": "module",
   "source": "src/index.js",            
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
   "homepage": "https://github.com/getsettalk/up-first-letter",
+  "keywords": ["React.js", "React-Native", "getsettalk","capitalize", "up", "first-letter","npm"],
   "scripts": {
     "build": "microbundle",           
     "dev": "microbundle watch"        
