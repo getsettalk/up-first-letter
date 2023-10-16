@@ -15,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getsettalk/first-letter.git"
+    "url": "git+git remote add origin https://github.com/getsettalk/up-first-letter.git"
   }
 }
