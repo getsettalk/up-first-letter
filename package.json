@@ -1,11 +1,12 @@
 {
   "name": "up-first-letter",
-  "version": "1.0.0",                     
+  "version": "1.0.1",                     
   "type": "module",
   "source": "src/index.js",            
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
+  "homepage": "https://github.com/getsettalk/up-first-letter",
   "scripts": {
     "build": "microbundle",           
     "dev": "microbundle watch"        
